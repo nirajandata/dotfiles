@@ -94,7 +94,9 @@ alias l='ls -CF'
 alias python=python3
 alias orz="python ~/Desktop/counter.py"
 
+
 #alias pyinstaller=/home/nirarara/.local/bin/pyinstaller
+set -o vi
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
