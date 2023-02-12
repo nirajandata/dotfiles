@@ -93,6 +93,9 @@ alias la='ls -A'
 alias l='ls -CF'
 alias python=python3
 alias orz="python ~/Desktop/counter.py"
+alias opengl="-lglut -lGLU -lGL; ./a.out"
+###hide this
+export CID="gK52De2Tm_dL5o1IXKa9FROBAJ-LIYqR41xBdlg3X2k"
 
 
 #alias pyinstaller=/home/nirarara/.local/bin/pyinstaller
